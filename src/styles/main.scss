@@ -1,0 +1,12 @@
+@import "reset";
+@import "layout";
+@import "fonts";
+@import "variables";
+
+body {
+  background: $bgColor;
+
+  * {
+    font-family: 'Archivo', sans-serif !important;
+  }
+}
